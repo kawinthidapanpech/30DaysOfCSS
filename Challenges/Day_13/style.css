@@ -21,7 +21,7 @@ section {
   line-height: 220px;
   overflow: hidden;
   font-family: 'Merriweather', serif;
-  animation: animate 20s linear infinite;
+  animation: animate 4s linear infinite;
 }
 
 .wrapper {
